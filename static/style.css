@@ -48,6 +48,13 @@ nav ul {
 	font-size: 1.5em;
 }
 
+nav u2 {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-size: 1.5em;
+}
+
 nav ul li {
 	display: inline;
 }
