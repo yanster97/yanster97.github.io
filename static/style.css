@@ -6,7 +6,11 @@
     background: linear-gradient(red, yellow); /* Standard syntax */
 }
 body {
-	font-family: 'Libre Baskerville';
+	height: 100%;
+	margin: 0;
+	background-repeat: no-repeat;
+    	background-attachment: fixed;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 a, a:active, a:visited, a:hover {
