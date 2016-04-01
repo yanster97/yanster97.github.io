@@ -27,38 +27,6 @@
 				</ul>
 			</nav>
 			<div class="content">
-				
-	
-		<div class="item">
-			<p class="title"><a href="http://mathclub.pearlandnerd.com/">PHS Math Club</a></p>
-			<p>As the president of the Pearland High School Math Club, I made this website to help members practice their number sense skills. It has a practice mode, in which users can practice a certain problem type, or a certain skill, or even all problems of a certain difficulty level. There is also a "tricks" section where users can read math tricks posted by administrators.</p>
-
-<p>The site supports performance analysis, logging all practice sessions and using the <a href="https://google-developers.appspot.com/chart/">Google Charts API</a> to display the data over time. Users can also set their own score-based goals and the site will highlight subject areas in which the user is behind his or her target performance.</p>
-
-<p>This project allowed me to learn about educational techniques and how web development can help students learn and practice their skills. I also created an administrator panel for scripting problem generators (using <a href="https://www.python.org/">Python</a>) based on released <a href="http://www.uiltexas.org/academics/number-sense">UIL Number Sense</a> tests.</p>
-
-<p>The site is powered by <a href="https://www.python.org/">Python</a>, <a href="https://djangoproject.com/">Django</a>, and <a href="http://www.postgresql.com/">PostgreSQL</a> and is hosted on <a href="https://www.heroku.com/">Heroku</a>. <a href="http://www.getbootstrap.com/">Bootstrap</a> was used for the design.</p>
-			<a href="http://mathclub.pearlandnerd.com/"><img class="screenshot" src="/media/mathclub.png"></a>
-		</div>
-		<hr>
-	
-		<div class="item">
-			<p class="title"><a href="http://www.musicgen.org/">MusicGen</a></p>
-			<p>MusicGen is an experiment in human-aided computer music generation. I made this website while at the Stanford Pre-Collegiate Summer Institutes in July 2014. It generates random 9.6-second songs and asks users to rate them subjectively, and it then uses genetic algorithms to mutate the songs over time to achieve "better" music. There is an admin panel for moderating users and ensuring that no one cheats the rating system. This project allowed me to explore modern AI techniques and their applications in research and industry.</p>
-
-<p>The site is powered by <a href="https://www.python.org/">Python</a>, <a href="https://djangoproject.com/">Django</a>, and <a href="http://www.postgresql.com/">PostgreSQL</a> and is hosted on <a href="https://www.heroku.com/">Heroku</a>. <a href="http://www.getbootstrap.com/">Bootstrap</a> was used for the design.</p>
-			<a href="http://www.musicgen.org/"><img class="screenshot" src="/media/musicgen.png"></a>
-		</div>
-		<hr>
-	
-		<div class="item">
-			<p class="title"><a href="http://learn.pearlandnerd.com/">ACADEC Learn</a></p>
-			<p>I created this website to help my Academic Decathlon team study and win competitions. It has several study exercises including an AJAX-powered reading guide and flash cards, an interactive timeline, and online practice tests. There is a login system with different levels of authentication for administrators, coaches, and students.</p>
-
-<p>The site is powered by <a href="https://www.python.org/">Python</a>, <a href="https://djangoproject.com/">Django</a>, and <a href="http://www.postgresql.com/">PostgreSQL</a> and is hosted on <a href="https://www.heroku.com/">Heroku</a>.</p>
-			<a href="http://learn.pearlandnerd.com/"><img class="screenshot" src="/media/learn.png"></a>
-		</div>
-		<hr>
 	
 
 			</div>
